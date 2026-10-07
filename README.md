@@ -53,7 +53,7 @@ Le projet repose sur une architecture hybride Cloud (Azure) / Local, séparant d
 ### 4. Restitution et Modélisation
 
 - **Dashboard Power BI :** Visualisation des KPI du catalogue et croisement géographique des commandes clients.
-- **Ontologie Sémantique :** Modélisation RDF/OWL sur WebProtégé définissant les relations entre les classes `Film`, `Livre`, `Client` et `Commande`.
+- **Ontologie Sémantique :** Modélisation RDF/OWL sur WebProtégé définissant les relations entre les classes `Films`, `Livres`, `Clients` et `Commandes`.
 
 ## Installation & Prérequis
 
